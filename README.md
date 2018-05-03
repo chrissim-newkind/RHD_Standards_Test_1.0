@@ -16,16 +16,16 @@ Logo
 Color Palette
 -------------
 
-| Name             | HEX       | RGB           | Sample                                              |
-|:-----------------|:----------|:--------------|:----------------------------------------------------|
-| Light Red        | `#cc0000` | `204, 0, 0` | ![#cc0000](http://placehold.it/60x30/cc0000/cc0000) |
-| Dark Red       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
-| Light Yellow       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
-| Dark Yellow       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
-| Light Green       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
-| Dark Green       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
-| Light Blue       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
-| Dark Blue       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
+| Name             | HEX       | RGB           | PMS           | Sample                                              |
+|:-----------------|:----------|:--------------|:--------------|:----------------------------------------------------|
+| Light Red        | `#CC0000` | `204, 0, 0` | `1797C` | ![#CC0000](http://placehold.it/60x30/CC0000/CC0000) |
+| Dark Red       | `#820000` | `130, 0, 0`  | `1815C` | ![#820000](http://placehold.it/60x30/820000/820000) |
+| Light Yellow       | `#F0AB00` | `240, 171, 0`  | `130C` | ![#F0AB00](http://placehold.it/60x30/F0AB00/F0AB00) |
+| Dark Yellow       | `#EC7A08` | `236, 122, 8`  | `716C` | ![#EC7A08](http://placehold.it/60x30/EC7A08/EC7A08) |
+| Light Green       | `#92D400` | `146, 212, 0`  | `375C` | ![#92D400](http://placehold.it/60x30/92D400/92D400) |
+| Dark Green       | `#3F9C35` | `63, 156, 53`  | `362C` | ![#3F9C35](http://placehold.it/60x30/3F9C35/3F9C35) |
+| Light Blue       | `#00B9E4` | `0, 185, 228`  | `306C` | ![#00B9E4](http://placehold.it/60x30/00B9E4/00B9E4) |
+| Dark Blue       | `#0088CE` | `0, 136, 206`  | `Process Blue C` | ![#0088CE](http://placehold.it/60x30/0088CE/0088CE) |
 
 Naming
 ------
