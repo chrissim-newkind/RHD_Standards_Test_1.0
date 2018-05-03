@@ -4,6 +4,7 @@ __Brand Guidelines__
 Project brand assets and guidelines for Red Hat Developer.
 
 ---
+&nbsp;
 
 Story & Messaging
 ========
@@ -21,6 +22,7 @@ Big Brand Message
 'Moving Forward Together'
 
 ---
+&nbsp;
 
 Visual
 ========
