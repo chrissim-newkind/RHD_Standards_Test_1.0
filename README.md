@@ -1,7 +1,7 @@
-Branding
+Brand Guidelines
 ========
 
-Project brand assets and guidelines for ReactPHP.
+Project brand assets and guidelines for Red Hat Developer.
 
 Logo
 ----
@@ -18,8 +18,14 @@ Color Palette
 
 | Name             | HEX       | RGB           | Sample                                              |
 |:-----------------|:----------|:--------------|:----------------------------------------------------|
-| Key Color        | `#4f5b93` | `79, 91, 147` | ![#4f5b93](http://placehold.it/60x30/4f5b93/4f5b93) |
-| Base Color       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
+| Light Red        | `#cc0000` | `204, 0, 0` | ![#cc0000](http://placehold.it/60x30/cc0000/cc0000) |
+| Dark Red       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
+| Light Yellow       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
+| Dark Yellow       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
+| Light Green       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
+| Dark Green       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
+| Light Blue       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
+| Dark Blue       | `#584b4f` | `88, 75, 79`  | ![#584b4f](http://placehold.it/60x30/584b4f/584b4f) |
 
 Naming
 ------
@@ -37,6 +43,4 @@ Credits
 License
 -------
 
-Copyright (c) 2017 by the ReactPHP project.
-
-The logo and the brand name **are not MIT licensed**. Please check [our LICENSE](https://github.com/reactphp/branding/blob/master/LICENSE) for usage guidelines.
+Copyright (c) 2018 by the Red Hat Developer Program.
