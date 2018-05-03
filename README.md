@@ -1,4 +1,4 @@
-BRAND GUIDELINES
+__Brand Guidelines__
 ========
 
 Project brand assets and guidelines for Red Hat Developer.
@@ -7,6 +7,13 @@ Project brand assets and guidelines for Red Hat Developer.
 
 Story & Messaging
 ========
+
+Naming
+------
+
+* Project name: **ReactPHP**
+* Slogan: **Event-driven, non-blocking I/O with PHP.**
+* Hashtag for project related content: `#reactphp`
 
 Big Brand Message
 ----
@@ -43,18 +50,14 @@ Color Palette
 | Dark Blue       | `#0088CE` | `0, 136, 206`  | `Process Blue C` | ![#0088CE](http://placehold.it/60x30/0088CE/0088CE) |
 | Dark Gray       | `#231F20` | `35, 31, 32`  | `?C` | ![#231F20](http://placehold.it/60x30/231F20/231F20) |
 
-Naming
-------
 
-* Project name: **ReactPHP**
-* Slogan: **Event-driven, non-blocking I/O with PHP.**
-* Hashtag for project related content: `#reactphp`
 
 Credits
 -------
 
 * Logo type font: [Viga](https://fonts.google.com/specimen/Viga)
 * The license has been inspired by the [webpack media license](https://github.com/webpack/media/blob/master/LICENSE)
+
 
 License
 -------
