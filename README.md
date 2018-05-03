@@ -26,6 +26,7 @@ Color Palette
 | Dark Green       | `#3F9C35` | `63, 156, 53`  | `362C` | ![#3F9C35](http://placehold.it/60x30/3F9C35/3F9C35) |
 | Light Blue       | `#00B9E4` | `0, 185, 228`  | `306C` | ![#00B9E4](http://placehold.it/60x30/00B9E4/00B9E4) |
 | Dark Blue       | `#0088CE` | `0, 136, 206`  | `Process Blue C` | ![#0088CE](http://placehold.it/60x30/0088CE/0088CE) |
+| Dark Gray       | `#231F20` | `35, 31, 32`  | `?C` | ![#231F20](http://placehold.it/60x30/231F20/231F20) |
 
 Naming
 ------
