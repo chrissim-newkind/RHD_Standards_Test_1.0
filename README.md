@@ -1,7 +1,22 @@
-Brand Guidelines
+BRAND GUIDELINES
 ========
 
 Project brand assets and guidelines for Red Hat Developer.
+
+---
+
+Story & Messaging
+========
+
+Big Brand Message
+----
+
+'Moving Forward Together'
+
+---
+
+Visual
+========
 
 Logo
 ----
